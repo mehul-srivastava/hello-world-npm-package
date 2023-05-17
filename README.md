@@ -1,7 +1,7 @@
 # @mehul-srivastava/hello-world
 
 [![npm (scoped)](https://img.shields.io/npm/v/@mehul-srivastava/hello-world.svg?style=for-the-badge)](https://www.npmjs.com/package/@mehul-srivastava/hello-world)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@mehul-srivastava/hello-world.svg?style=for-the-badge)](https://www.npmjs.com/package/@mehul-srivastava/hello-world)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/mehul-srivastava/hello-world-npm-package?style=for-the-badge)
 
 ## Install
 

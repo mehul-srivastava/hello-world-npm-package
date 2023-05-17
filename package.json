@@ -1,6 +1,6 @@
 {
   "name": "@mehul-srivastava/hello-world",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "An NPM package that says hello to the developer",
   "license": "MIT",
   "repository": "mehul-srivastava/hello-world-npm-package",

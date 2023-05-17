@@ -3,6 +3,4 @@ const helloWorld = (name) => {
   return `Hello ${name}. I belong to the @mehul-srivastava/hello-world NPM package!`;
 };
 
-console.log(helloWorld(1337));
-
 module.exports = helloWorld;
